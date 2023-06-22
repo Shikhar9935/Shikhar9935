@@ -11,6 +11,8 @@ src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c040
 - 🌱 I’m currently learning **App Development**
 
 - 💬 Ask me about **Data Structures and Algorithms,Python**
+  
+- 🤝 My Certifications [hh](jhj)
 
 - 📫 How to reach me **shikharsinghss9935@gmail.com**
 
