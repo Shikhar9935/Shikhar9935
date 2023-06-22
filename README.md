@@ -12,7 +12,7 @@ src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c040
 
 - 💬 Ask me about **Data Structures and Algorithms,Python**
   
-- 🤝 My Certifications [hh](jhj)
+- 🤝 My Certifications [Link](https://drive.google.com/drive/folders/1ALFFEcJlFiRD_5wUI1v9O3Qfr4LMMca2)
 
 - 📫 How to reach me **shikharsinghss9935@gmail.com**
 
